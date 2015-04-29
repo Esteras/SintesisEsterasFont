@@ -37,6 +37,7 @@ namespace ProjecteSintesis
 
         private void btnAccedir_Click(object sender, EventArgs e)
         {
+            //BLABLALBA
             //es posen els valors dels atributs user i passwd a la cadena de text
             cadena = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xe)));User Id=" + usr + ";Password=" + pwd + ";";
             orCon.ConnectionString = cadena;

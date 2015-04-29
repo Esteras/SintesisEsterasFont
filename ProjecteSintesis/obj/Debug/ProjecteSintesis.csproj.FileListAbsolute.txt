@@ -9,3 +9,4 @@ C:\Users\Joan\Documents\GitHub\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.c
 C:\Users\Joan\Sintesis\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
 C:\Users\Joan\Documents\projectesintesis\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
 C:\Users\Joan\Documents\GitHub\SintesisEsterasFont\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
+D:\Projecte Final DAM2\SintesisEsterasFont\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
