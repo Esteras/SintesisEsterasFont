@@ -1,0 +1,10 @@
+D:\CFGS DAM2\ProjecteFinalDAMJEsterasEFont\ProjecteSintesis\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
+D:\CFGS DAM2\ProjecteFinalDAMJEsterasEFont\ProjecteSintesis\ProjecteSintesiEsterasFont\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
+C:\Users\Joan\Documents\GitHub\ProjecteSintesiEsterasFont\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
+C:\Users\Joan\Documents\GitHub\ProjecteSintesiEsterasFont\ProjecteSintesis\obj\Debug\ProjecteSintesis.csprojResolveAssemblyReference.cache
+C:\Users\Joan\Documents\GitHub\ProjecteSintesiEsterasFont\ProjecteSintesis\obj\Debug\ProjecteSintesis.FrmLogin.resources
+C:\Users\Joan\Documents\GitHub\ProjecteSintesiEsterasFont\ProjecteSintesis\obj\Debug\ProjecteSintesis.Properties.Resources.resources
+C:\Users\Joan\Documents\GitHub\ProjecteSintesiEsterasFont\ProjecteSintesis\obj\Debug\ProjecteSintesis.csproj.GenerateResource.Cache
+C:\Users\Joan\Documents\GitHub\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
+C:\Users\Joan\Sintesis\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
+C:\Users\Joan\Documents\projectesintesis\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
