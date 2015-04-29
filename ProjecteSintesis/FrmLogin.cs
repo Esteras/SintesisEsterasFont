@@ -48,7 +48,7 @@ namespace ProjecteSintesis
                     orCon.Open();
 
                 //s'instancia un nou formulari del tipus FrMPare i se li passen per paràmetres la OracleConnection actual(orCon) i el formulari actual(this)
-                FrmPrincipal formPare = new FrmPrincipal(orCon, this);
+                FrmPare formPare = new FrmPare(orCon, this);
                 formPare.ShowDialog();
             }
             catch (OracleException oe)
