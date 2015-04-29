@@ -78,7 +78,7 @@ namespace ProjecteSintesis
 
         protected virtual void FrmModel_Load(object sender, EventArgs e)
         {
-            try
+            try//per provar si peta aquesta puta merda
             {
                 //al carregar el formulari s'assigna l'event keydown del formulari a tots els controls d'aquest, per poder així navegar amb tecles indepedentment de a quin control estigui actualment...
                 subscriureEventKeyDown(true);
