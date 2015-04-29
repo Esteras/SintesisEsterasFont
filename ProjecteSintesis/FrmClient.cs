@@ -19,7 +19,7 @@ namespace ProjecteSintesis
 
         private void FrmClient_Load(object sender, EventArgs e)
         {
-            //qaklsdjaksjd
+            
         }
     }
 }
